@@ -448,7 +448,7 @@ section{
 /* mobile */
 @media (max-width:425px){
     .logo{
-        padding-right: 25px;
+        padding-right: 5px;
     }
 }
 
@@ -456,7 +456,7 @@ section{
 /* mobile */
 @media (max-width:425px){
     .navigation a {
-        font-size: 0.3em;
+        font-size: 0.5em;
     }
 }
 
@@ -503,3 +503,11 @@ section{
     }
 }
 
+
+
+/* mobile */
+@media (max-width:425px){
+    #contact .title{
+        text-align: center;
+    }
+}
