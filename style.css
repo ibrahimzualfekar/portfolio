@@ -496,3 +496,10 @@ section{
     }
 }
 
+/* mobile */
+@media (max-width:425px){
+    .main-btn{
+        padding: 0.9375em 1.1875em;
+    }
+}
+
