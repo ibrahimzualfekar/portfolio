@@ -456,7 +456,7 @@ section{
 /* mobile */
 @media (max-width:425px){
     .navigation a {
-        font-size: 0.5em;
+        font-size: 0.3em;
     }
 }
 
@@ -484,7 +484,7 @@ section{
 /* mobile */
 @media (max-width:425px){
     .main-btn{
-        margin-left: 35px;
+        margin-left: 40px;
     }
 }
 
