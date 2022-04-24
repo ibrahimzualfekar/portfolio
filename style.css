@@ -528,8 +528,8 @@ section{
 
 /* mobile */
 @media (max-width:425px){
-    .contact .info p .email{
-        font-size: 0.9em;
+    #contact .info .email{
+        font-size: 0.7em;
     }
 }
 
