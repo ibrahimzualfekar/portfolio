@@ -444,3 +444,54 @@ section{
 /* ........................................... */
 
 
+
+/* mobile */
+@media (max-width:425px){
+    .logo{
+        padding-right: 25px;
+    }
+}
+
+
+/* mobile */
+@media (max-width:425px){
+    .navigation a {
+        font-size: 0.6em;
+    }
+}
+
+
+/* mobile */
+@media (max-width:425px){
+    .main{
+    background: url(./images/2.jpg);
+        
+    }
+}
+
+
+
+
+/* mobile */
+@media (max-width:425px){
+    .main .main-info{
+        padding-top: 300px;
+    }
+}
+
+
+/* mobile */
+@media (max-width:425px){
+    .main-btn{
+        margin-left: 55px;
+    }
+}
+
+
+/* mobile */
+@media (max-width:425px){
+    .social-icons a{
+        left: 95px;
+    }
+}
+
