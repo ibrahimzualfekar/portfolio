@@ -207,6 +207,13 @@ section{
     bottom: 18px;
 }
 
+@media (min-width:1200px){
+    .main h3::after {
+        height: 17px;
+        right: 120px;
+    }
+}
+
 /* xsmall */
 @media (max-width:767px){
     .main h3::after,
