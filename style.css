@@ -208,9 +208,16 @@ section{
 }
 
 @media (min-width:1200px){
-    .main h3::after {
+    .main h3::after{
+        font-family: "Font Awesome 5 Free";
+        font-size: 0.5em;
+        content: "\f10e";
+        color: white;    
+        width: 10px;
         height: 17px;
+        position: absolute;
         right: 120px;
+        bottom: 18px;
     }
 }
 
