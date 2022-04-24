@@ -382,9 +382,12 @@ section{
 
 
 .contact .info p{
-    font-size: 1.1em;
+    font-size: 0.9em;
     font-weight: 500;
 }
+
+
+
 
 /* ........................................ */
 
@@ -528,8 +531,8 @@ section{
 
 /* mobile */
 @media (max-width:425px){
-    #contact .info .email{
-        font-size: 0.7em;
+    .contact .info p{
+        font-size: 0.8em;
     }
 }
 
