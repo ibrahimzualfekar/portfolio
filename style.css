@@ -447,7 +447,7 @@ section{
 /* mobile */
 @media (max-width:425px){
     header{
-        padding: 10px 20px ;
+        padding: 10px 10px ;
         justify-content: center;        
         
     }
