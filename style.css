@@ -444,6 +444,15 @@ section{
 /* ........................................... */
 
 
+/* mobile */
+@media (max-width:425px){
+    header{
+        padding: 10px 20px ;
+        justify-content: center;        
+        
+    }
+}
+
 
 /* mobile */
 @media (max-width:425px){
@@ -515,3 +524,12 @@ section{
         text-align: center;
     }
 }
+
+
+/* mobile */
+@media (max-width:425px){
+    .contact .info p .email{
+        font-size: 0.9em;
+    }
+}
+
