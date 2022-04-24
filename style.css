@@ -109,7 +109,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(./images/1.jpg);
+    background-image: url(./images/1.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -464,7 +464,8 @@ section{
 /* mobile */
 @media (max-width:425px){
     .main{
-    background: url(./images/2.jpg);
+    background-image: url(./images/2.jpg);
+    background-size: cover;
         
     }
 }
