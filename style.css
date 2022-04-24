@@ -484,7 +484,7 @@ section{
 /* mobile */
 @media (max-width:425px){
     .main-btn{
-        margin-left: 55px;
+        margin-left: 45px;
     }
 }
 
@@ -492,7 +492,7 @@ section{
 /* mobile */
 @media (max-width:425px){
     .social-icons a{
-        left: 95px;
+        left: 80px;
     }
 }
 
